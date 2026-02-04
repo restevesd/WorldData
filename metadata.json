@@ -1,0 +1,5 @@
+{
+  "name": "WorldScraper Architect",
+  "description": "An intelligent dashboard that generates and explains the Python infrastructure needed to scrape dynamic data from Worldometers.info using Gemini 2.0.",
+  "requestFramePermissions": []
+}
